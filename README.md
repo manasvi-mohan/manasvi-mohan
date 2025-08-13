@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Manasvi Mohan
 
-<!--
-**manasvi-mohan/manasvi-mohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Engineering Manager @ Turing UltraLab**  
+🧠 ex-Solution Architect & Principal Engineer (GenAI, Blockchain, Python, FastAPI, JS, Node, React, EVM)  
+🤖 Built GenAI-powered products & blockchain solutions  
+♟️ Chess enthusiast, creative coder  
+🎭 Prankster dad & husband  
+📚 Philosophy, religion, psychology explorer  
+🫶 **Human first before titles** | Life before stress
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tech
+
+- Python · FastAPI · JavaScript · Node.js · React · Ethereum Virtual Machine · Blockchain
+- GenAI · Solution Architecture · Engineering Management
+
+## 🏷️ Tags
+
+`#EngineeringManager` `#GenAI` `#Blockchain` `#Python` `#FastAPI` `#JavaScript` `#NodeJS` `#React` `#Ethereum`  
+`#Philosophy` `#Psychology` `#Chess` `#CreativeCoding` `#HumanFirst` `#LifeBeforeStress`
+
+---
+
+## 🌐 Connect
+
+- [LinkedIn](https://in.linkedin.com/in/manasvi-m)
+- [Slack](https://turing-company.slack.com/team/U099WMWESTE)
+- manasvi.mohan.sharma@turing.com
+
+---
+
+> **Tagline:**  
+> _Human first before titles. This is how I see the world. Life before stress._

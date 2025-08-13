@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manasvi Mohan
+# 👋 Hi, I'm Manasvi
 
 👨‍💻 **Engineering Manager @ Turing UltraLab**  
 🧠 ex-Solution Architect & Principal Engineer (GenAI, Blockchain, Python, FastAPI, JS, Node, React, EVM)  

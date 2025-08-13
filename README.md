@@ -6,7 +6,7 @@
 ♟️ Chess enthusiast, creative coder  
 🎭 Prankster dad & husband  
 📚 Philosophy, religion, psychology explorer  
-🫶 **Human first before titles** | Life before stress
+🫶 Outlook: Human first before titles | Life before stress
 
 ---
 
@@ -27,8 +27,3 @@
 - [LinkedIn](https://in.linkedin.com/in/manasvi-m)
 - [Slack](https://turing-company.slack.com/team/U099WMWESTE)
 - manasvi.mohan.sharma@turing.com
-
----
-
-> **Tagline:**  
-> _Human first before titles. This is how I see the world. Life before stress._

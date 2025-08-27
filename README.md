@@ -23,7 +23,7 @@
 </p>
 
 👨‍💻 **Engineering Manager @ UltraLab**  
-🧠 ex-Solution Architect & Principal Engineer (GenAI, Blockchain, Python, FastAPI, JS, Node, React, EVM)  
+🧠 ex-Solution Architect & Principal Engineer
 🤖 Built GenAI-powered products & blockchain solutions  
 ♟️ Chess enthusiast, creative coder  
 🎭 Prankster dad & husband  
